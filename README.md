@@ -1,4 +1,4 @@
-<img width="1280" height="900" alt="chronovault_screenshot" src="https://github.com/user-attachments/assets/5ce3e067-6589-4e20-918f-ade6ac00736e" />
+<img width="1170" height="816" alt="chronovault_screenshot (1)" src="https://github.com/user-attachments/assets/4c92363e-ef47-4ffc-b50c-092c970d5ab5" />
 
 
 # ChronoVault · Wayback Site Archiver

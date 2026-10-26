@@ -1,3 +1,6 @@
+<img width="1280" height="900" alt="chronovault_screenshot" src="https://github.com/user-attachments/assets/5ce3e067-6589-4e20-918f-ade6ac00736e" />
+
+
 # ChronoVault · Wayback Site Archiver
 
 Archive a **whole website** on the [Internet Archive's Wayback Machine](https://web.archive.org) from a desktop app.
